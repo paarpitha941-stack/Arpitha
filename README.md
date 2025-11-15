@@ -1,4 +1,4 @@
 # Arpitha
-my first repository
+my first
 <br>
 Author - Arpitha
